@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Interactable
+  - Trash
+  - Object_1
+  - Slow
+  - Exp_Zone
+  - Transformed
+  - Interactable P2
   layers:
   - Default
   - TransparentFX
@@ -11,7 +18,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Transformed
   - 
   - 
   - 
